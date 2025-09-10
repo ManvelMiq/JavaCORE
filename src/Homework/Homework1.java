@@ -1,6 +1,6 @@
 package Homework;
 
-import org.w3c.dom.ls.LSOutput;
+
 
 public class Homework1 {
     public static void main(String[] args) {
